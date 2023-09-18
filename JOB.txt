@@ -1,0 +1,220 @@
+Proven experience as a Computer Security Specialist
+
+Programming skills are preferred (e.g. knowledge of C++, PHP languages)
+
+Familiarity with security frameworks (e.g. NIST Cybersecurity framework) and risk management methodologies
+
+Knowledge of patch management, firewalls and intrusion detection/prevention systems (e.g. TippingPoint)
+
+Familiarity with public key infrastructure (PKI) and cryptographic protocols (e.g. SSL/ TLS)
+
+An analytical mind with excellent problem-solving ability
+
+Outstanding communication and organization skills
+
+Decision-making skills
+-------------------------------------------------------------------------------------------------------------------------
+BS/MS from a top school in Computer Science, Information Systems or any related field.
+
+5+ years of Cyber Security GRC experience.
+
+Experience developing and implementing GRC policies and procedures.
+
+Ability to work collaboratively with other departments and stakeholders.
+
+Relevant certifications in GRC, risk management, or compliance (e.g., ISO 27001 Lead Implementer/Auditor, GRC Professional, CISA, CRISC, etc.) are preferred.
+
+Excellent communication and interpersonal skills.
+-----------------------------------------------------------------------------------------------------------------
+https://www.linkedin.com/jobs/search/?currentJobId=3508497451&distance=25&geoId=91000001&keywords=cyber%20security
+
+More than 10 years’ experience in Cyber and Information Security field
+
+7 years’ experience in Cybersecurity consulting and services (frameworks development, audit, compliance/ gap assessment, risk assessment/treatment and development of cybersecurity RFPs)
+
+3 years’ experience in developing Cybersecurity architectures and solutions (Firewalls, IDS, Endpoint Protection, SIEM)
+
+5 years’ experience in OT environments, preferably Aviation and Transportation
+
+Solid knowledge of both international and regional standards and frameworks (e.g. NCA, NESA, IEC 62443, ISO27, and NIST)
+
+Solid knowledge of Microsoft Office: Project, Word, Excel, and PowerPoint.
+
+Excellent communication skills (verbal & written) and interpersonal skill
+
+
+Qualification, Certification & Educational Requirements
+
+Bachelor degree or equivalent in Computer Science, Engineering, Mathematics, Cybersecurity, or Data Science
+
+Relevant Accreditations such as CISSP, CISM, GIAC, IEC62443 or other internationally recognized certifications
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+https://www.linkedin.com/jobs/search/?currentJobId=3503757525&distance=25&geoId=91000001&keywords=cyber%20security&start=25
+
+About the job
+Location: Abu Dhabi
+
+Job Description
+
+Required Experience:
+
+University degree in Computer Science/Technology resp. equivalent IT education, ITIL certification plus but not a must
+
+
+Two to five years of experience in a cybersecurity role
+
+
+Experience working with leading cloud infrastructure (G42 Cloud, AWS, GCP, Azure, etc)
+
+
+Experience in dealing with Micro-services architecture
+
+
+Equipped with building and integrating security solutions as part of the CI/CD solutions
+
+
+Conduct threat and risk analysis and analyze the business impact of new and existing systems and technologies to eliminate risk, performance, and capacity issues.
+
+Hand-on experience with going through application and system logs, network data, or other available information
+
+Experience with vulnerability assessment tools and audits of operating systems, web servers, and databases and detecting patterns, insecure features, and malicious activities in the infrastructure.
+
+Ability to independently trial and deploy new security tools and solutions
+
+Experienced in penetration testing with a strong understanding of OWASP. Be able to run Dynamic and static security testing.
+
+
+Be able to perform security testing using leading tools like Burp Suite, SonarQube, or OWASP ZAP
+
+
+Good to have: Experience with WAF (Web Application Firewall) Experience with Kubernetes
+
+Job Type: Full-time
+
+Ability to commute/relocate:
+
+Abu Dhabi: Reliably commute or planning to relocate before starting work (Required)
+
+Application Question(s):
+
+How many years of experience in a cyber security role?
+How much is your notice period?
+what is your expected salary?
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+https://www.linkedin.com/jobs/search/?currentJobId=3496723847&distance=25&geoId=91000001&keywords=cyber%20security&start=25
+
+About the job
+KEY RESPONSIBILITIES:
+
+Research, analyze and assess current and emerging threats to OT systems and infrastructure.
+Collect and evaluate data from various sources to develop threat intelligence reports and alerts.
+Monitor and analyze threat actors and their methods, tactics, and procedures.
+Collaborate with other cyber security teams to develop and implement strategies for protecting OT systems.
+Develop and maintain threat intelligence platforms, tools, and processes.
+Stay up to date on emerging technologies, vulnerabilities, and threat landscape in OT systems.
+Provide guidance and recommendations to stakeholders on threat mitigation and response.
+
+KNOWLEDGE AND EXPERTISE:
+
+Bachelor's degree in computer science, engineering, cyber security, or related field.
+3-5 years of experience in threat intelligence or cyber security.
+Understanding of OT systems and technologies.
+Knowledge of threat intelligence platforms and tools.
+Familiarity with intelligence analysis methodologies and techniques.
+Excellent analytical, problem-solving, and critical thinking skills.
+Strong written and verbal communication skills.
+Ability to work independently and as part of a team.
+
+=================================================================================================================
+
+
+https://www.linkedin.com/jobs/search/?currentJobId=3429407025&distance=25&geoId=91000001&keywords=cyber%20security&start=50
+
+About the job
+We are looking for a Cyber Security Engineer to join our Security team .
+
+A Cyber Security Engineer's responsibilities focusing on :
+Administer and support Salla’s Bug Bounty/Responsible disclosure program
+Provide application security testing including secure coding techniques and reviews, process and tools, security testing support and guidance for internal software development projects.
+To provide guidance on software security best practice and compliance and undertake application security testing.
+Perform well controlled vulnerability exploitation/penetration testing on applications, network protocols, and databases.
+Perform network reconnaissance, OSINT for SALLA Websites and Products.
+Document and validate the findings from the testing to reduce false positives;
+Perform manual penetration tests of websites, services, infrastructure and networks to discover and exploit vulnerabilities.
+Understanding of web-based security vulnerabilities, ability to identify and exploit them (e.g. XSS, CSRF, SQLi, session management issues, etc.)
+Checking and recommending Web application security controls at frontend and backend.
+Performs static/dynamic code testing, manual code inspection, and penetration testing of internal web applications and external partner applications to identify vulnerabilities and security defects, Testing of security in Applications.
+
+Requirements
+Undergraduate degree in Computer Science, Engineering, or related field
+3+ years of experience in Penetration Testing
+Educational or professional background in IT, ideally security
+In-depth understanding of networking
+Good understanding of web and mobile applications
+One or more certifications, including but not limited to GPEN, GXPN, GWAPT, OSCP,WAPT,PTP or OSCE required
+GPEN, GXPN, GWAPT, OSCP, or OSCE required
+
+Benefits
+Training & Development
+Performance Bonus
+Private Health Insurance
+----------------------------------------------------------------------------------------------
+https://www.linkedin.com/jobs/search/?currentJobId=3418393613&distance=25&geoId=91000001&keywords=cyber%20security&start=50
+
+About the job
+We are looking for an OT cybersecurity engineer with Audit, Assessment, and Implementation experience in industrial environments.
+
+Cybersecurity Audit:
+
+Verification and validation of the audit checklists as per the developed framework
+Understands the frameworks and recommends applicable controls specific to the environment and systems
+Develop Audit reports
+Identify the gaps and coordinate with the stakeholders for the closure of gaps
+Experience in planning the audit and assessment activities
+
+Assessment:
+
+Perform cybersecurity criticality assessment of the OT systems
+Perform vulnerability assessments of the OT systems
+Categorize the risks
+Benchmark the cybersecurity system state as per ISA/IEC 62443 / NIST
+Identify the gaps to reach desired SL level
+Recommend the mitigation actions as per the assessment
+Experience of penetration in a control systems environment
+
+Implementation:
+
+Perform the hardening of the OT systems and network
+Liaison with the OT asset owners for implementation activities
+Site planning for performing these activities
+Perform risk assessment of the implementation activities and identify the mitigation measure for smooth implementation on site
+
+Requirements:
+
+Bachelor’s/Master Degree in engineering or in a related field
+Minimum 5+ years of work relevant experience in OT cybersecurity
+Expert knowledge in NIST & ISA 62443
+Preferable training/certifications in any of these ISA 62443, CISSP, GIAC, ICS-CERT, or SANS
+Must have Effective Written/Verbal Communication Skills
+--------------------------------------------------------------------
+Requirements
+
+Education Bachelor’s degree in
+ Information Technology/Computer Science/Information/Business
+ Management or related field Certifications related to CISM, CISSP, CRISC, ISO27K Experience 10+ years of information systems 
+experience of which 7+ years have been in an auditing, risk management and/or 
+security operations management role Skills and Knowledge Sound knowledge of 
+industry best practice and standards pertaining to information security
+, risk management and data privacy Knowledge of and experience with
+ information security methodologies, framework, design and policies Deep
+ understanding of regional and local regulations pertaining to Information Security 
+and data privacy Ability to delegate, set expectations and monitor delegated
+ activities Highly effective verbal and written communication skills with
+ strong facilitation skills Strong analytical and problem-solving skills
+ Must be fluent in Arabic and English
